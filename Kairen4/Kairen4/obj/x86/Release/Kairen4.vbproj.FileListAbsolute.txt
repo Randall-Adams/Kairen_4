@@ -1,0 +1,13 @@
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\bin\Release\Kairen4.exe
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\bin\Release\Kairen4.pdb
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\bin\Release\Kairen4.xml
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.Form1.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.Resources.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.vbproj.GenerateResource.Cache
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.exe
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.xml
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.pdb
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.Form2.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.Form3.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.Form4.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Release\Kairen4.Form_DialogueDocumenter.resources

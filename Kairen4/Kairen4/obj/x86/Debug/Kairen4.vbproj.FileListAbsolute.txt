@@ -1,0 +1,15 @@
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\bin\Debug\Kairen4.exe
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\bin\Debug\Kairen4.pdb
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\bin\Debug\Kairen4.xml
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.Form1.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.Resources.resources
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.vbproj.GenerateResource.Cache
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.exe
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.xml
+C:\Users\Kaynewihza\documents\visual studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.pdb
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.vbprojResolveAssemblyReference.cache
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.Form2.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.Form3.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.Form_DialogueDocumenter.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.Form4.resources
+C:\Users\Kaynewihza\Documents\Visual Studio 2010\Projects\Kairen4\Kairen4\obj\x86\Debug\Kairen4.Form_Map.resources
